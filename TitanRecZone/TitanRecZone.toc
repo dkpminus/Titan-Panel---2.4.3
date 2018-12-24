@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: Titan Panel [Recomended Zone] 2.0 (20400)
+## Notes: Displays level for current zone and recommends zones and instances for your level.
+## Author: Robert Jernberg (To 2.0 by Thomas G, Revised and updated to 20003 by Colin Hamilton)
+## SavedVariables: 
+## SavedVariablesPerCharacter: 
+## OptionalDeps: 
+## Dependencies: Titan
+TitanRecZone.xml

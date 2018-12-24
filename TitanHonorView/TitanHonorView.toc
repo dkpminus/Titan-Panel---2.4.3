@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: Titan Panel [HonorView]
+## Notes: Provides realtime display of honor currency, honor points and honorable kills. Also provides a battleground averages summary as well as stats from the last 5 battlegrounds played. 
+## Author: Written by Sarlena based on Titan [Honor] by Foxy @ Krag'Jin-EU (Original by Ithrill @ Jaedenar-EU)
+## SavedVariables: TITANVIEW_HONOR_CFG, TITAN_HONORVIEW_DATA, TITANVIEW_HONOR_KILLSTODAY, TITANVIEW_HONOR_KILLSLIFETIME
+## OptionalDeps: 
+## Dependencies: Titan
+## Version: 2.00
+TitanHonorView.xml

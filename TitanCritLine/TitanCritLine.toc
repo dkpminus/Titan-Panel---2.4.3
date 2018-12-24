@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: Titan Panel [|cffeda55fCritLine|r] |cff00aa000.5.7|r
+## Notes: Saves your high normal and critical damage records and flashes a message if your break the record.
+## Author: AidenK, Penddor of Eitrigg
+## OptionalDeps:
+## Dependencies: Titan
+## SavedVariables: TitanCritLineSettings
+## SavedVariablesPerCharacter: TCL_SETTINGS
+## Version: 0.5.7
+TitanCritLine.xml

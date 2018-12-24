@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: Titan [Aggro] 3.2
+## Notes: Aggro detection, reporting and more.
+## Author: Screamer
+## Dependencies: 
+## OptionalDeps: Titan
+## SavedVariables: TitanAggroSettings
+TitanAggro.xml
+TitanAggro_Icons.xml
